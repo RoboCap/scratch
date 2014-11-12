@@ -1,4 +1,4 @@
-image:images/Scratch_Logo.svg.png[width=40%]
+image:images/slideshow/Scratch_Logo.svg.png[width=40%]
 
 = Scratch Labs
 
