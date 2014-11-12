@@ -1,0 +1,9 @@
+image:images/Scratch_Logo.svg.png[width=40%]
+
+= Scratch Labs
+
+This repository contains the training material for link:http://scratch.mit.edu/[Scratch].
+
+We are providing it so anybody, any group in their neighbor, city, region and country can teach software programming to children in a fun way.
+
+
