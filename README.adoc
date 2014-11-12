@@ -9,7 +9,10 @@ We are providing it so anybody, any group in their neighbor, city, region and co
 Yes, children can be creative with computers and can be proud of what they build with them.
 
     
-    
+== Copyright and Licensing
+
+Copyright (C) 2014-2014 the RoboCap team 
+
 +++
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 +++
