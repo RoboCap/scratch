@@ -1,6 +1,6 @@
 = Scratch Labs Organization
 
-This directory contains internal material and documents necessary to prepare the workshop:
+This directory contains internal material and documents necessary to prepare the workshop.
 
 == Workstation Installation & Configuration
 
