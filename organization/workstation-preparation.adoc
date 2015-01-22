@@ -45,7 +45,7 @@ Select the downloaded `Scratch-xyz.air` file (where `xyz` is the version) and fo
 * Start the `AdobeAIRInstaller.exe` executable and follow the instructions from the installer.
 * Start the `Scratch-xyz.exe` (where `xyz` is the version) executable and follow the instructions from the installer.
 
-=== Post-installation steps
+==== Post-installation steps
 
 * Start the *Scratch 2* application
 * Let the application to be updated (if asked after startup)
