@@ -2,4 +2,4 @@
 
 This directory contains internal material and documents necessary to prepare the workshop:
 
-* link:organization/workstation-preparation.adoc[Workstation Installation & Configuration]
+* link:workstation-preparation.adoc[Workstation Installation & Configuration]
