@@ -8,9 +8,9 @@ We are providing it so anybody, any group in their neighbor, city, region and co
 
 Yes, children can be creative with computers and can be proud of what they build with them.
 
-== Workstation Installation & Configuration
+== Preparing the Workshop
 
-Please refer link:organization/workstation-preparation.adoc[this document] for detailed instructions how to prepare the workstations.
+Please refer link:organization/README.adoc[this document] for internal details about preparing the workshop.
     
 == Copyright and Licensing
 
