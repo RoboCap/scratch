@@ -1,0 +1,52 @@
+= Workstation Installation & Configuration
+
+== Introduction
+
+The *Scratch Labs* requires following software to be installed on the workstation:
+
+* link:http://get.adobe.com/air[Adobe AIR]
+* link:http://wiki.scratch.mit.edu/wiki/Scratch_2.0_Offline_Editor[Scratch 2 Offline Editor]
+
+It's also recommended to download link:http://scratch.mit.edu/help[Support Materials]:
+
+* Starter Projects
+* Getting Started Guide
+* Scratch Cards
+
+Please refer link:http://scratch.mit.edu/scratch2download/[this page] for download instructions.
+
+== Install the software
+
+The installation process depends on the operating system installed on the workstation.
+
+==== Linux
+
+* Make the file `AdobeAIRInstaller.bin` executable and start it as root user
++
+   chmod +x AdobeAIRInstaller.bin
+   sudo ./AdobeAIRInstaller.bin
++
+Because Linux is no more supported platform for Adobe AIR you can have some trubles installing it under Linux (e.g. missing libraries). 
+If you are on Ubuntu 14.04/14.10/12.04/Linux Mint 17/13 you can use a script which detects the version of the operating systems and performs 
+all steps necessary to install Adobe AIR
++
+   wget -O adobe-air.sh http://drive.noobslab.com/data/apps/AdobeAir/adobe-air.sh
+   chmod +x adobe-air.sh
+   sudo ./adobe-air.sh
+
+* Start the Adobe AIR Application Installer as root (please check first where the Adobe AIR has been installed)
++
+   sudo /opt/Adobe\ AIR/Versions/1.0/Adobe\ AIR\ Application\ Installer
++
+Select the downloaded `Scratch-xyz.air` file (where `xyz` is the version) and follow the instructions from the installer.
+
+==== Windows
+
+* Start the `AdobeAIRInstaller.exe` executable and follow the instructions from the installer.
+* Start the `Scratch-xyz.exe` (where `xyz` is the version) executable and follow the instructions from the installer.
+
+=== Post-installation steps
+
+* Start the *Scratch 2* application
+* Let the application to be updated (if asked after startup)
+* Set the proper user interface language using the Earth symbol next to the Scratch logo placed in the toolbar.
