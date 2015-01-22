@@ -10,7 +10,7 @@ Yes, children can be creative with computers and can be proud of what they build
 
 == Workstation Installation & Configuration
 
-Pleaso refer link:organization/workstation-preparation.adoc[this document] for detailed instructions how to prepare the workstations.
+Please refer link:organization/workstation-preparation.adoc[this document] for detailed instructions how to prepare the workstations.
     
 == Copyright and Licensing
 
