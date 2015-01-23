@@ -1,4 +1,4 @@
-= Instalacja i Konfiguracja Stacji Stacji Roboczej
+= Instalacja i Konfiguracja Stacji Roboczej
 
 == Wstęp
 
