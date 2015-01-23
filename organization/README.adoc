@@ -4,4 +4,4 @@ This directory contains internal material and documents necessary to prepare the
 
 == Workstation Installation & Configuration
 
-Please refer link:workstation-preparation.adoc[this document] for detailed instructions how to prepare the workstations.
+Please refer link:workstation-configuration-en.adoc[this document] for detailed instructions how to prepare the workstations.
