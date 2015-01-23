@@ -1,0 +1,16 @@
+= Instalacja i Konfiguracja Stacji Stacji Roboczej
+
+== Wstęp
+
+Na potrzeby *Scratch Labs* konieczna jest instalacja następującego oprogramowania:
+
+* link:http://get.adobe.com/air[Adobe AIR]
+* link:http://wiki.scratch.mit.edu/wiki/Scratch_2.0_Offline_Editor[Scratch 2 Offline Editor]
+
+Zalecane jest także skopiowanie na dysk następujących link:http://scratch.mit.edu/help[materiałów uzupełniających]:
+
+* Starter Projects
+* Getting Started Guide
+* Scratch Cards
+
+Linki do powyższych pakietów znajdują się na link:http://scratch.mit.edu/scratch2download/[tej stronie].
