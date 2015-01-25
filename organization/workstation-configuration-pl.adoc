@@ -1,4 +1,10 @@
 = Instalacja i Konfiguracja Stacji Roboczej
+:doctype: article
+:toc: left
+:toclevels: 3
+:toc-position: left
+:numbered:
+:source-highlighter: coderay
 
 == Wstęp
 
