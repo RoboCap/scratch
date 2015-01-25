@@ -1,4 +1,10 @@
 = Workstation Installation & Configuration
+:doctype: article
+:toc: left
+:toclevels: 3
+:toc-position: left
+:numbered:
+:source-highlighter: coderay
 
 == Introduction
 
