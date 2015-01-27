@@ -27,7 +27,7 @@ The installation process depends on the operating system installed on the workst
 
 ==== Linux
 
-* Make the file `AdobeAIRInstaller.bin` executable and start it as root user
+* Make the file `AdobeAIRInstaller.bin` executable and start it as `root` user
 +
    chmod +x AdobeAIRInstaller.bin
    sudo ./AdobeAIRInstaller.bin
@@ -40,7 +40,7 @@ all steps necessary to install Adobe AIR
    chmod +x adobe-air.sh
    sudo ./adobe-air.sh
 
-* Start the Adobe AIR Application Installer as root (please check first where the Adobe AIR has been installed)
+* Start the Adobe AIR Application Installer as `root` (please check first where the Adobe AIR has been installed)
 +
    sudo /opt/Adobe\ AIR/Versions/1.0/Adobe\ AIR\ Application\ Installer
 +
