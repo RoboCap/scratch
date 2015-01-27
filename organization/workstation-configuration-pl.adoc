@@ -20,3 +20,39 @@ Zalecane jest także skopiowanie na dysk następujących link:http://scratch.mit
 * Scratch Cards
 
 Linki do powyższych pakietów znajdują się na link:http://scratch.mit.edu/scratch2download/[tej stronie].
+
+== Instalacja oprogramowania
+
+Proces instalacji zależy od systemu operacyjnego zainstalowanego na stacji roboczej.
+
+==== Linux
+
+* Ustaw możliwość uruchamiania pliku `AdobeAIRInstaller.bin` a następnie uruchom go jako `root`
++
+   chmod +x AdobeAIRInstaller.bin
+   sudo ./AdobeAIRInstaller.bin
++
+Ponieważ Linux nie jest już platformą wspieraną przez Adobe AIR, instalacja na tym systemie może sprawiać problemy (n.p. brakujące biblioteki).
+Do instalacji na Ubuntu 14.04/14.10/12.04/Linux Mint 17/13 można wykorzystać skrypt, który rozpoznaje wersję systemu operacyjnego i 
+przygotowuje system do instalacji Adobe AIR.
++
+   wget -O adobe-air.sh http://drive.noobslab.com/data/apps/AdobeAir/adobe-air.sh
+   chmod +x adobe-air.sh
+   sudo ./adobe-air.sh
+
+* Uruchom Adobe AIR Application Installer jako `root` (należy wcześniej sprawdzić gdzie w którym katalogu został zainstalowany Adobe AIR)
++
+   sudo /opt/Adobe\ AIR/Versions/1.0/Adobe\ AIR\ Application\ Installer
++
+Należy wybrać wcześniej ściągnięty plik `Scratch-xyz.air` (gdzie `xyz` jes numerem wersji) i postępować zgodnie z instrukcjami podawanymi przez instalator.
+
+==== Windows
+
+* Uruchom `AdobeAIRInstaller.exe` i postępuj zgodnie z instrukcjami podawanymi przez instalator.
+* Uruchom `Scratch-xyz.exe` (where `xyz` is the version) postępuj zgodnie z instrukcjami podawanymi przez instalator.
+
+==== Kroki końcowe
+
+* Uruchom aplikację *Scratch 2*
+* Zezwól na aktualizację aplikacji (jeśli pojawi się komunikat przy starcie)
+* Ustaw odpowiedni język dla interfejsu użytkownika klikając na symbol kuli ziemskiej obok loga Scratcha na pasku narzędzi.
